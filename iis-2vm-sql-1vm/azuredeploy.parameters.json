@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "envPrefixName": {
-      "value": "cust1"
+      "value": "fst"
     },
     "username": {
-      "value": "contoso"
+      "value": "thisisusername"
     },
     "password": {
       "value": "GEN-PASSWORD"
